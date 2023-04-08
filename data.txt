@@ -1,0 +1,17 @@
+13,Lan Anh,Quảng Ngãi,SX hoặc KD,01/2023,999,1111
+2,Lê Tấn Dương,Quảng Nam,SX hoặc KD,03/2023,666,888
+8,Hồ Thanh Huy,Hà Nội,Khác,03/2023,55,333
+14,Quốc Anh,Quảng Trị,NN,01/2023,555,888
+12,Hữu Phước,Thanh Hóa,Khác,01/2023,1111,1415
+10,Danh Sa,Quảng Nam,Khác,01/2001,77,768
+121,Khánh Dương,Quảng Nam,KD hoặc SX,01/2001,10,768
+888,Dương Tiễn,1 Phạm Ngũ Lão,NN,1/2023,111,888
+6,Diệp Phàm,Đồng Tháp,NN,03/2023,333,1111
+29,Ngô Quyền,Đà Nẵng,NN,01/2001,87,999
+222,Bông,522 NHT,SX hoặc KD,1/2023,1111,2222
+11,Huyền Trang,Nha Trang,SX hoặc KD,01/2021,1234,4321
+22,Công Hữu,Quảng Nam,NN,01/2001,10,3333
+7,Công Ty dệt may Hòa Thọ,Đà Nẵng,SX hoặc KD,03/2023,1111,9999
+28,Tôn Đức Thắng,Đà Nẵng,KD hoặc SX,01/2001,873,9999
+4,Trương Công Hữu,Quảng Nam,SX hoặc KD,03/2023,1,11121
+999,Google,New York,SX hoặc KD,1/2023,1,99999
